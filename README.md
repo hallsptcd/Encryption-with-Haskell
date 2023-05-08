@@ -1,4 +1,4 @@
-# Language Encryption and Detection
+# Language Encryption and Detection with Haskell
 
 **Language**: Haskell
 
